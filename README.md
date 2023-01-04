@@ -1,2 +1,2 @@
-# golang-template
-golang-template
+# golang-template-hexagonal
+golang-template-hexagonal
